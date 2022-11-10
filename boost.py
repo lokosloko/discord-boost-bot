@@ -89,7 +89,7 @@ bypass = 0
 cmd = 'mode 50,25'
 os.system(cmd)
 
-ctypes.windll.kernel32.SetConsoleTitleW("https://github.com/nyax44 | Server Boost Tool")
+ctypes.windll.kernel32.SetConsoleTitleW("https://github.com/Harperkost | Server Boost Tool")
 
 def start():
     removeDuplicates("tokens.txt")
