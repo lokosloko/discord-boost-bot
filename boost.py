@@ -237,7 +237,7 @@ def print_banner(BoostsAmmount: int):
         ░▀▀▀▄▄ █░░█ █░░█ █      ░▀▀▀▄▄ █▀  █▄▄▀ ░█▄█░  █  █    █▀    ░▒█   ▒█░░█ █░░█ ░█
         ▒█▄▄▄█ █▄▄█ █▄▄█ █▄▄▄   ▒█▄▄▄█ █▄▄ █░██  ░▀░░ ███ █▄▄▄ █▄▄   ░▒█   ▒█▄▄█ █▄▄█ ░█▄▄▄
                         
-                               https://discord.gg/WgdrTxswyK  
+                               Drxz#0136  
 
 
                 Boosts Available: {BoostsAmmount}
